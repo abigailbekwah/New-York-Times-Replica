@@ -59,7 +59,7 @@ main {
   transform: translate(-50%, -50%);
   width: 42px;
   height: 42px;
-  background-color: rgb(255 255 255 /95%);
+  background-color: rgb(255 255 255 / 95%);
   color: #0a0a0a;
   border-radius: 50%;
   display: flex;
